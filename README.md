@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Registration form card snippet** made with Bootstrap 4. It has a beautiful design with welcoming colors and tasteful box shadows. The entire form is very compact and would look great as a pop-up registration or login form. This snippet is fully responsive and looks great on all device sizes. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/registration-form-with-photo)
+**Registration form card snippet** made with Bootstrap 4. It has a beautiful design with welcoming colors and tasteful box shadows. The entire form is very compact and would look great as a pop-up registration or login form. This snippet is fully responsive and looks great on all device sizes. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Registration Form Card](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/registration-form-with-photo) 
+[![Registration Form Card](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
